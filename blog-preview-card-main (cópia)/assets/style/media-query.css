@@ -1,0 +1,16 @@
+@media screen and (max-width: 376px){
+  .container{
+  width: 200px;
+  height: 440px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.text-card .text-title{
+  width: 60px;
+  font-size: 10px;
+}
+.text-card h3{
+  font-size: 18px;
+}
+
+}
